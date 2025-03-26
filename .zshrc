@@ -121,3 +121,8 @@ export PATH="/opt/riscv/bin:$PATH"
 export NPC_HOME=/Users/yimingchen/prj/ysyx-workbench/npc
 export CPATH=/opt/homebrew/Cellar/verilator/5.028/share/verilator/include:$CPATH
 alias dc="cd"
+alias python="python3"
+
+# Created by `pipx` on 2024-12-25 08:19:32
+export PATH="$PATH:/Users/yimingchen/.local/bin"
+export NVBOARD_HOME=/Users/yimingchen/prj/ysyx-workbench/nvboard

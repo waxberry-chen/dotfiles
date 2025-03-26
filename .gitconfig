@@ -1,3 +1,10 @@
 [user]
 	name = waxberry
 	email = chenyiming_hust@163.com
+[pager]
+    log = false
+[alias]
+    graph = log --all --graph --decorate --oneline
+[core]
+	excludesfile = /Users/yimingchen/.gitignore_global
+	editor = vim
